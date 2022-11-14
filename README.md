@@ -23,3 +23,9 @@ Em geral, realizamos esses 5 passos para analisar um Teste A/B:
 4. Calculamos o poder estatístico.
 
 5. Avaliamos como o tamanho das amostras afeta os Testes A/B.
+
+## Conclusão
+O poder calculado para este tamanho de amostra foi de aproximadamente 0,80. Portanto, para afirmar que a mudança na página removendo as avaliações de usuários realmente aumentou a taxa de conversão precisamos de pelos menos 1249 amostras.
+O segredo do Teste A/B não está na execução do teste de hipótese em si, mas em conseguir obter o poder estatístico necessário para afirmar que as mudanças tiveram ou não efeito na taxa de conversão.
+
+Para o nosso exemplo, com 1249 amostras podemos afirmar que sim, remover as avaliações de usuários da página aumenta a taxa de conversão.
